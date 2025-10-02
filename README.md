@@ -30,6 +30,9 @@ mongodb-data-layer-fundamentals-and-advanced-techniques-Ngong2/
 yaml
 Copy code
 
+
+<img width="800" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/7a82ca3c-990a-4c54-b994-772bbc06006e" />
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -72,6 +75,7 @@ Would you like me to also **finish the full `queries.js` file (CRUD, advanced qu
 
 
  <img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
+
 
 
 
