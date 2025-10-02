@@ -27,13 +27,59 @@ mongodb-data-layer-fundamentals-and-advanced-techniques-Ngong2/
 │── package.json # Node.js project configuration
 │── README.md # Documentation (this file)
 
-yaml
-Copy code
+
+Would you like me to also **finish the full `queries.js` file (CRUD, advanced queries, aggregations, indexing)** so you just run `node script/queries.js` and see results like in your Compass screenshots?
+👉 Now just make sure you **place both screenshots in your repo root** with the same filenames:
+<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Would you like me to also **finish the full `queries.js` file (CRUD, advanced queries, aggregations, indexing)** so you just run `node script/queries.js` and see results like in your Compass screenshots?
+👉 Now just make sure you **place both screenshots in your repo root** with the same filenames:
 
 
 <img width="800" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/7a82ca3c-990a-4c54-b994-772bbc06006e" />
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## ⚙️ Setup Instructions
 
@@ -66,17 +112,3 @@ You will see results logged in the terminal.
 1. Books Collection in Compass
 
 2. Querying Fantasy Books
-
-Would you like me to also **finish the full `queries.js` file (CRUD, advanced queries, aggregations, indexing)** so you just run `node script/queries.js` and see results like in your Compass screenshots?
-👉 Now just make sure you **place both screenshots in your repo root** with the same filenames:
-<img width="800" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
-
-<img width="800" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/7a82ca3c-990a-4c54-b994-772bbc06006e" />
-
-
- <img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
-
-
-
-
-
