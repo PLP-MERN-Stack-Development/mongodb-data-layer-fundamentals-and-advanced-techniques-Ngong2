@@ -66,15 +66,12 @@ You will see results logged in the terminal.
 
 Would you like me to also **finish the full `queries.js` file (CRUD, advanced queries, aggregations, indexing)** so you just run `node script/queries.js` and see results like in your Compass screenshots?
 👉 Now just make sure you **place both screenshots in your repo root** with the same filenames:
-![Screenshot 2025-10-02 161351](https://github.com/user-attachments/assets/7a82ca3c-990a-4c54-b994-772bbc06006e)
+<img width="800" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
 
-![Screenshot 2025-10-02 162637](https://github.com/user-attachments/assets/b226377f-43b8-418e-8320-f8f784528ea2)
+<img width="800" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/7a82ca3c-990a-4c54-b994-772bbc06006e" />
 
-![Another Screenshot](https://github.com/user-attachments/assets/78c1286b-29fb-4aca-9565-a1e3fa2f09b3)
 
-![Small Image](https://github.com/user-attachments/assets/984e3c3d-feef-4ab3-8665-1599e38a4ab8)
-
-![Screenshot 2025-10-02 162637](https://github.com/user-attachments/assets/38a71609-6574-4c3c-a71d-1564d52df546)
+ <img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
 
 
 
