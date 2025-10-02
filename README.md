@@ -87,14 +87,16 @@ Before running this project, ensure you have:<img width="1879" height="952" alt=
 <img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/081cd409-c4d6-40fd-9a86-0df96926d51b" />
 
 
-![Uploading Screenshot 2025-05-09 103129.png…]()
-<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/cf0f1017-3c27-48d7-8bb6-855347042245" />
-<img width="1844" height="858" alt="Screenshot 2025-05-09 103129" src="https://github.com/user-attachments/assets/0a90bcf9-b89a-43a0-bb15-d1d60fb704ba" />
 
 
 
 
 
+
+<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/5e4fc635-cde4-4e5b-b674-f47b85b181df" />
+<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/97f34d5a-045c-4bbd-a00f-19fa92cdc3b6" />
+<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/e93ff65a-a4f9-4daf-a633-ca7665362ead" />
+<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/4d6d8b2d-1517-442f-b35a-815a11db133a" />
 
 
 
