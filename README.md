@@ -15,7 +15,9 @@ It covers database setup, CRUD operations, indexing, and aggregation pipelines, 
 ---
 
 ## 🛠️ Prerequisites
-Before running this project, ensure you have:
+Before running this project, ensure you have:<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/e9854168-e2f6-4ee2-a685-c946eb6233fa" />
+<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/081cd409-c4d6-40fd-9a86-0df96926d51b" />
+
 - [Node.js](https://nodejs.org/) installed  
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) cluster OR local MongoDB installation  
 - [MongoDB Compass](https://www.mongodb.com/try/download/compass) (GUI client for MongoDB)  
@@ -88,6 +90,11 @@ Would you like me to also **finish the full `queries.js` file (CRUD, advanced qu
 
 
 
+
+![Uploading Screenshot 2025-05-09 103129.png…]()
+<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/cf0f1017-3c27-48d7-8bb6-855347042245" />
+<img width="1844" height="858" alt="Screenshot 2025-05-09 103129" src="https://github.com/user-attachments/assets/0a90bcf9-b89a-43a0-bb15-d1d60fb704ba" />
+<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/104a9625-5a2a-4763-bac2-487ccb3e81b1" />
 
 
 
