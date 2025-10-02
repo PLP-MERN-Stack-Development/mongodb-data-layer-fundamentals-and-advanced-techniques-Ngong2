@@ -7,8 +7,7 @@ It covers database setup, CRUD operations, indexing, and aggregation pipelines, 
 
 ## 🚀 Features
 - MongoDB Atlas/local connection setup  
-- CRUD operations (Create, Read, Update, Delete)  <img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
-
+- CRUD operations (Create, Read, Update, Delete)  
 - Advanced queries (filtering, projections, sorting)  
 - Aggregation pipelines  
 - Indexing for performance optimization  
@@ -26,6 +25,16 @@ mongodb-data-layer-fundamentals-and-advanced-techniques-Ngong2/
 │── .env # Environment variables (MongoDB URI)
 │── package.json # Node.js project configuration
 │── README.md # Documentation (this file)
+
+
+
+
+
+
+
+
+
+
 
 
 Would you like me to also **finish the full `queries.js` file (CRUD, advanced queries, aggregations, indexing)** so you just run `node script/queries.js` and see results like in your Compass screenshots?
@@ -112,3 +121,4 @@ You will see results logged in the terminal.
 1. Books Collection in Compass
 
 2. Querying Fantasy Books
+
