@@ -7,7 +7,8 @@ It covers database setup, CRUD operations, indexing, and aggregation pipelines, 
 
 ## 🚀 Features
 - MongoDB Atlas/local connection setup  
-- CRUD operations (Create, Read, Update, Delete)  
+- CRUD operations (Create, Read, Update, Delete)  <img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/51031104-55d0-41c9-bd82-d4e392c86947" />
+
 - Advanced queries (filtering, projections, sorting)  
 - Aggregation pipelines  
 - Indexing for performance optimization  
@@ -63,40 +64,21 @@ You will see results logged in the terminal.
 
 2. Querying Fantasy Books
 
-✅ Author
-Ngong Kuot Ngong
-📧 Contact: [Add your email here]
-🌍 Project: Part of PLP MERN Stack Development Program
-
-yaml
-Copy code
-
----
-
-👉 Now just make sure you **place both screenshots in your repo root** with the same filenames:
-
-- `Screenshot 2025-10-02 161351.png`  
-- `Screenshot 2025-10-02 162631.png`
-
 Would you like me to also **finish the full `queries.js` file (CRUD, advanced queries, aggregations, indexing)** so you just run `node script/queries.js` and see results like in your Compass screenshots?
+👉 Now just make sure you **place both screenshots in your repo root** with the same filenames:
+<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/7a82ca3c-990a-4c54-b994-772bbc06006e" />
+
+
+<img width="940" height="476" alt="Screenshot 2025-10-02 162637" src="https://github.com/user-attachments/assets/b226377f-43b8-418e-8320-f8f784528ea2" />
 
 
 
-## 🛠️ Prerequisites
-Before running this project, ensure you have:<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/5e4fc635-cde4-4e5b-b674-f47b85b181df" />
-<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/97f34d5a-045c-4bbd-a00f-19fa92cdc3b6" />
+<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/78c1286b-29fb-4aca-9565-a1e3fa2f09b3" />
 
 
 
+<img width="539" height="445" alt="image" src="https://github.com/user-attachments/assets/984e3c3d-feef-4ab3-8665-1599e38a4ab8" />
 
-
-
-
-
-<img width="1879" height="952" alt="Screenshot 2025-10-02 162631" src="https://github.com/user-attachments/assets/5e4fc635-cde4-4e5b-b674-f47b85b181df" />
-<img width="1874" height="969" alt="Screenshot 2025-10-02 161351" src="https://github.com/user-attachments/assets/97f34d5a-045c-4bbd-a00f-19fa92cdc3b6" />
-
-
-
+<img width="940" height="476" alt="Screenshot 2025-10-02 162637" src="https://github.com/user-attachments/assets/38a71609-6574-4c3c-a71d-1564d52df546" />
 
 
