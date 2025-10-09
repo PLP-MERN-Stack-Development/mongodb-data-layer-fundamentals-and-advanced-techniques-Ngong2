@@ -1,11 +1,20 @@
+
+const { mongoose, connectDB } = require('./db');
 require('dotenv').config();
-const { MongoClient } = require('mongodb');
 
-const uri = process.env.MONGODB_URI;
-const dbName = process.env.DB_NAME;
-const collectionName = 'books';
 
-const books = [
+async function insertBooks() {
+  const client = new MongoClient(uri);
+  try {
+    await client.connect();
+    console.log(' Connected to MongoDB');
+
+    const db = client.db('plp_bookstore');
+    const collection = db.collection('books');
+
+    // Optional: Drop collection if you want to start fresh
+    // await collection.drop().catch(() => {});
+    const books = [
   {
     title: 'To Kill a Mockingbird',
     author: 'Harper Lee',
@@ -108,25 +117,13 @@ const books = [
   }
 ];
 
-async function insertBooks() {
-  const client = new MongoClient(uri);
-  try {
-    await client.connect();
-    console.log('✅ Connected to MongoDB');
-
-    const db = client.db(dbName);
-    const collection = db.collection(collectionName);
-
-    // Optional: Drop collection if you want to start fresh
-    // await collection.drop().catch(() => {});
-
     const result = await collection.insertMany(books);
-    console.log(`✅ Inserted ${result.insertedCount} books`);
+    console.log(` Inserted ${result.insertedCount} books`);
   } catch (err) {
-    console.error('❌ Error inserting books:', err);
+    console.error(' Error inserting books:', err);
   } finally {
     await client.close();
-    console.log('🔒 Connection closed');
+    console.log(' Connection closed');
   }
 }
 
