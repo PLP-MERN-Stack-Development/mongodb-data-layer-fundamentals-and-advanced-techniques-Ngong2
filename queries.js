@@ -1,9 +1,7 @@
-
 // Run: node queries.js
 
 require('dotenv').config();
 const { mongoose, connectDB } = require('./db');
-
 
 async function runQueries() {
   try {
@@ -115,7 +113,7 @@ async function runQueries() {
   } catch (err) {
     console.error(" Error:", err);
   } finally {
-    await client.close();
+    await mongoose.disconnect();
     console.log("\nConnection closed");
   }
 }
